@@ -22,7 +22,6 @@ export default function ToDoHeader() {
     <Typography component="div" className={classes.HeaderBackground}  >
     <div style={{ backgroundColor: 'white',paddingTop:'25px'  }}>
     <div className={classes.divStepour}>
-    STEPOUr"
     </div>
     <div className={classes.divToDoList}>
     To-Do List
